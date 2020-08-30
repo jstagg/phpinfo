@@ -1,0 +1,2 @@
+# phpinfo
+ Simple phpinfo page
